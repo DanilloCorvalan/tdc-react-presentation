@@ -1,4 +1,4 @@
-![Alt text](http://localhost:8000/logo_og.png)
+![Alt text](http://localhost:8080/logo_og.png)
 ##React
 ###A Javascript Library for building User Interfaces
 
@@ -22,7 +22,7 @@
 
 --
 
-![Alt text](http://localhost:8000/bravi_logo.jpg)
+![Alt text](http://localhost:8080/bravi_logo.jpg)
 
 - People Care
 - Incentivo ao aprendizado
@@ -30,5 +30,5 @@
 
 --
 
-![Alt text](http://localhost:8000/bravi01.jpg)
+![Alt text](http://localhost:8080/bravi01.jpg)
 ##www.bravi.com.br

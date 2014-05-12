@@ -18,4 +18,18 @@
 
 --
 
+##JSX
 
+- Transforma JSX em plain Javascript
+- Não é obrigatório seu uso
+- Recomendável
+
+--
+
+##Components
+
+- Properties
+- Nested Components
+- Stateful Components
+
+--
