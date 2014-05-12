@@ -33,3 +33,14 @@
 - Stateful Components
 
 --
+
+##Virtual DOM
+
+- Diff com DOM real
+- Alta performance
+- Minimo de mutações para representar o estado do componente
+- Técnica utilizada em alguns jogos
+
+--
+
+##One Way Data Flow
